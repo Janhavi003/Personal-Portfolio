@@ -1,4 +1,4 @@
-# Janhavi Hivarekar — Personal Portfolio
+# Janhavi Hivarekar - Personal Portfolio
 
 > A personal portfolio showcasing my work across frontend development, full-stack MERN development, and AI/GenAI applications.
 
