@@ -145,19 +145,6 @@ The portfolio includes:
 
 ---
 
-## Connect With Me
-
-**GitHub**  
-https://github.com/Janhavi003
-
-**LinkedIn**  
-https://www.linkedin.com/in/janhavi-hivarekar-08358a394
-
-**Portfolio**  
-https://janhavipersonalportfolio.vercel.app/
-
----
-
 ## A Note From Me
 
 > I believe good software isn't just about making something work.
