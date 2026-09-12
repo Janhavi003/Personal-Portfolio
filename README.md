@@ -1,61 +1,173 @@
-# Janhavi Hivarekar — Portfolio
+# Janhavi Hivarekar — Personal Portfolio
 
-A minimal, editorial-inspired personal portfolio for Janhavi Hivarekar, positioned around frontend development, full-stack MERN engineering and AI/GenAI applications.
+> A personal portfolio showcasing my work across frontend development, full-stack MERN development, and AI/GenAI applications.
 
-## Stack
-- Next.js App Router
-- React + TypeScript
-- CSS (custom design system; no UI framework)
-- Google Fonts: DM Sans + Playfair Display
+🌐 **Live Portfolio:**  
+https://janhavipersonalportfolio.vercel.app/
 
-## Structure
-```text
-app/                 Next.js pages and global styles
-components/          Reserved for reusable UI components as the site grows
-data/                Portfolio content and project data
-public/              Static assets
-styles/              Reserved for additional style modules
-```
+---
 
-## Run locally
-```bash
-npm install
-npm run dev
-```
-Open http://localhost:3000.
+## About
 
-## Production build
-```bash
-npm run build
-npm start
-```
+Hi, I'm **Janhavi Hivarekar**, a Software Product Engineering student based in Pune.
 
-## Deploy
-The project is ready for Vercel or any Node-compatible Next.js host. Connect the GitHub repository and use the default Next.js build settings.
+I enjoy building thoughtful digital experiences that combine **clean interfaces, practical engineering, and emerging AI technologies**.
 
-## Customize content
-- Name, role, location and social links: `data/site.ts`
-- Projects: `data/projects.ts`
-- Main page content/layout: `app/page.tsx`
-- Colors, typography, spacing, responsive behavior: `app/globals.css`
-- SEO metadata: `app/layout.tsx`
+My interests span across:
 
-## Add your profile photo later
-The current concept intentionally does not include a profile photo. When you want one, place it in `public/` and add it to the hero/about area with Next.js `Image`.
+- Frontend Development
+- Full-Stack / MERN Development
+- AI & Generative AI
+- UI/UX
+- Software Engineering
+- Data-driven applications
 
-## Add project links
-Replace the optional `href` and `repo` fields in `data/projects.ts` with each project's live URL and GitHub URL, then render the links in the project feature component.
+I enjoy taking an idea from concept to a functional, polished product — from designing the interface to building the APIs, integrating databases, and connecting AI-powered functionality.
 
-## Design notes
-The interface uses a restrained light/dark system, editorial typography, subtle reveal motion, a lightweight custom cursor, interactive project selection and a continuously moving technology marquee. All motion is disabled/reduced under `prefers-reduced-motion`.
+---
 
-## Before launch
-- Add real live-project and GitHub URLs.
-- Add a favicon and social preview image.
-- Add a real resume URL if desired.
-- Run `npm run build` and test on desktop/tablet/mobile.
-- Replace placeholder project visuals with real screenshots when available.
+## Portfolio Highlights
 
+The portfolio is designed around a **minimal and elegant visual identity**, with a focus on:
 
-### Project links
-Edit `data/projects.ts` and fill the `href` (live site) and `repo` (GitHub) fields for each project. The buttons appear automatically when a link is provided.
+- Clean typography
+- Responsive layouts
+- Light and dark themes
+- Subtle animations
+- Interactive project showcases
+- Smooth scrolling interactions
+- Minimal micro-interactions
+- Accessible and responsive UI
+- Project-focused storytelling
+
+The goal is to make the website feel personal and intentional rather than like a conventional developer portfolio template.
+
+---
+
+## Technical Skills
+
+### Languages
+
+`C++` · `JavaScript` · `TypeScript` · `Python` · `Java` · `SQL`
+
+### Frontend
+
+`React.js` · `Next.js` · `HTML5` · `CSS3` · `Tailwind CSS`
+
+### Backend & APIs
+
+`Node.js` · `Express.js` · `REST APIs` · `Firebase Authentication`
+
+### Databases
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `Supabase`
+
+### AI & GenAI
+
+`Generative AI` · `Gemini AI` · `Vapi AI` · `Prompt Engineering`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `Docker` · `Linux` · `Postman` · `Figma` · `Vercel` · `Netlify`
+
+---
+
+## Experience
+
+### SapphireIMS — C++ Intern
+
+**July 2025 – May 2026**
+
+During my internship, I worked on enterprise software development using C++ and contributed to assigned engineering tasks.
+
+**Responsibilities included:**
+
+- Developing and enhancing software features
+- Resolving defects and implementing functionality
+- Working with SQL for application data tasks and debugging
+- Troubleshooting software modules
+- Working in a Linux development environment
+- Testing and supporting engineering changes
+
+---
+
+## Education
+
+### B.Tech — Software Product Engineering
+
+**MIT-ADT University, Pune**  
+School of Computing
+
+**2024 – 2027**
+
+**CGPA:** 8.80 / 10.00
+
+---
+
+## Certifications
+
+- Git Training Certificate
+- AWS Certificate
+- IT Operations Management (ITOM) Certificate
+- UI/UX Designing Certificate
+- TypeScript Certificate
+- Angular Certificate
+- PySpark Certificate
+- Prompt Engineering Certificate
+
+---
+
+## What I Like Building
+
+I'm particularly interested in projects that sit at the intersection of:
+
+**Design × Engineering × AI**
+
+I enjoy creating applications where the interface is intuitive, the engineering is practical, and technology is used to solve a meaningful problem rather than simply being added as a feature.
+
+---
+
+## Portfolio Experience
+
+The portfolio includes:
+
+- 🌓 Light / Dark mode
+- ✦ Interactive project showcases
+- ↗ Live project links
+- ⌘ GitHub project links
+- ✨ Subtle motion and transitions
+- ↕ Smooth scrolling interactions
+- 🖱 Minimal interactive cursor
+- 📱 Responsive layouts
+- ♿ Accessibility-conscious UI
+- ⚡ Performance-focused implementation
+- 🔍 SEO-friendly metadata
+
+---
+
+## Connect With Me
+
+**GitHub**  
+https://github.com/Janhavi003
+
+**LinkedIn**  
+https://www.linkedin.com/in/janhavi-hivarekar-08358a394
+
+**Portfolio**  
+https://janhavipersonalportfolio.vercel.app/
+
+---
+
+## A Note From Me
+
+> I believe good software isn't just about making something work.
+> 
+> It's about making it useful, understandable, and enjoyable to use.
+
+I'm continuously learning, experimenting, and building — with a particular interest in **frontend experiences, full-stack applications, and AI-powered products**.
+
+---
+
+### Built with curiosity, code, and a lot of iteration.
+
+**Janhavi Hivarekar**
